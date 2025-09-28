@@ -1,5 +1,5 @@
 # Gmail-to-Discord-Notifier
-A personal project. I don't always have a browser or my Gmail open, but Discord is always running in the background. So I built this tool to forward my new unread Gmail subjects and snippets into a Discord channel. That way, I won't miss any important email, even if Gmail is closed.
+A personal project. I don't always have a browser or my Gmail open, but Discord is always running in the background. So I built this tool to forward my new unread Gmail subjects and snippets into a Discord channel. I won't miss any important email, even if Gmail is closed.
 
 This project uses Google's official Python libraries for Gmail API, plus Discord webhooks for the notifications. The heavy lifting is done by Google's prewritten tools, I just tied everything together.
 
