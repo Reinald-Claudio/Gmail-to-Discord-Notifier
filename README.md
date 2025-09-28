@@ -31,4 +31,7 @@ This project still has room to grow:
 - Email body previews, instead of just snippets.
 - Run as background service instead of a manual script.
 
+![Diagram](https://github.com/Reinald-Claudio/Gmail-to-Discord-Notifier/blob/main/cloudy-diagram.PNG?raw=true)
+*A powerpoint diagram, because why not.*
+
 
